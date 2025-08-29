@@ -1,9 +1,37 @@
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Nipun+Prabushitha;Full+Stack+Developer+%7C+Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%" />
+</p>
+
 ---
-# 💫 About Me:
-🌱 Currently learning **Python & PHP**<br><br> 👨‍💻 Check out my projects at [My Portfolio](https://my-portfolio-iota-orcin-46.vercel.app/)<br><br> 💬 Ask me about **Java, Spring Boot, React, Python**<br><br> 📫 Reach me at **nprabushitha@gmail.com**<br><br> ⚡ Fun fact: *Martian developer at heart 👽 — Exploring galaxies of code 🚀*
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Nipun Prabushitha! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Java, RDBMS, REST API and Data Visualization. </p>
+
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 👨‍💻 Check out my projects at [My Portfolio](https://my-portfolio-iota-orcin-46.vercel.app/)
+- 📫 Reach me at **nprabushitha@gmail.com**
+- 💻 Visit my [My Portfolio](https://my-portfolio-iota-orcin-46.vercel.app/) for more details about me.
+- 💬 Ask me about **Java, Spring Boot, React, Python**
+- ⚡ Fun fact: *Martian developer at heart 👽 — Exploring galaxies of code 🚀*
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NipunPrabushitha&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="NipunPrabushitha" style="padding-right:20px;" />
+</p>
 
 
 ## 🌐 Socials:
@@ -12,7 +40,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nipunprabushitha)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-iota-orcin-46.vercel.app/)
 
-<h2 align="center">My Tech Stack</h2>
+<h2 align="left">🔧 My Tech Stack</h2>
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
