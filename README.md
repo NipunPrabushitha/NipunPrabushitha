@@ -158,8 +158,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
   </a>
 </p>
-# 📊 GitHub Stats:
 
+<h2 align="left">📊 GitHub Stats:</h2>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NipunPrabushitha&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
 </p>
