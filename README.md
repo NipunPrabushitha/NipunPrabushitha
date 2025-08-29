@@ -1,5 +1,5 @@
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Nipun+Prabushitha;Full+Stack+Developer+%7C+Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=500&lines=Hey+there!+I'm+Nipun+Prabushitha;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%" />
